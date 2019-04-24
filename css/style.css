@@ -1,0 +1,38 @@
+.header {background: #6D43E8;}
+
+.logo img {width : 100px;
+margin: 10px 5px 5px 5px ;}
+
+.logo img {float: center;}
+
+.header .menu {border-top: 4px dashed white;
+padding: 5px;}
+
+.button {color: #152CEB;}
+
+.header .menu .button {
+display: inline-block;
+background: #9759FF;
+color: white;
+padding : 5px;
+border-radius: 15px;
+text-decoration: none;
+font-family: arial;}
+
+.header .menu .button:hover {background:#B773FF }
+
+.header2 .menu2 .button:hover {background: #9FE85D}
+
+.header2 .logo2 img {width : 150px;
+margin: 10px 10px 5px 5px ;}
+
+.header2 .menu2 .button {
+display: inline-block;
+background:#15EB2B;
+color: black;
+padding : 10px;
+border-radius: 15px;
+text-decoration: none;
+font-family: arial;}
+
+.header2 {background: #FFC99E}
